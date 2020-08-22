@@ -1,0 +1,7 @@
+ Desafio da semana 1
+Usando SOMENTE CSS e Flex box:
+Criar uma tela de login de sua preferência.
+Crie uma sidebar.
+Crie um formulário de cadastro de novos usuários.
+E crie uma tela pra mostrar os usuários cadastrados.
+Pra realizar esse desafio você terá que estudar as seguintes tecnologias : CSS-flexBox
